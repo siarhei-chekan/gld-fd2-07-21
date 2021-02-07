@@ -8,4 +8,5 @@ const b = 2;
 const resultOfMultiplication = a * b;
 
 const message = `${a} times ${b} is ${resultOfMultiplication}`;
+
 console.log(message);
