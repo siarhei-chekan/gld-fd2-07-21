@@ -1,6 +1,5 @@
 /* Проверить, содержит ли строка второе вхождение подстроки, вернуть true или false. 
-Используйте String.prototype.includes(), String.prototype.indexOf() 
-Test- 'Ослик Иа-Иа потерял свой хвостик' */
+Используйте String.prototype.includes(), String.prototype.indexOf() */
 
 
 function checkSecondOccurrence (ourString, subString) {
